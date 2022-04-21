@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    border-bottom: 2px solid black;
+}
+
+/* header work */
+/* header work */
+header {
+    height: 80px;
+    width: 100%;
+}
+
+nav {
+    float: left;
+    width: 100%;
+    margin: 2%;
+}
+
+nav img, nav a {
+    float: left;
+    width: 15%;
+    color: black;
+    text-decoration: none;
+}
+
+nav ul {
+    float: left;
+    width: 55%;
+    list-style: none; 
+}
+/* header work */
+/* header work */
+
+
+
+/* main work */
+/* main work */
+main {
+    clear: both;
+    background: seagreen;
+}
+
+.top {
+    padding: 160px 130px;
+    width: 65%;
+}
+
+.top * {
+    margin: 10px;
+    padding: 10px;
+}
+
+main h1{
+    font-size: 80px;
+}
+
+.top a {
+    color: white;
+    text-decoration: none;
+    background: black;
+    margin-left: 24px;
+}
+
+.top section {
+    background: black;
+    color: white;
+    width: 50%;
+    margin-left: 24px;
+}
+
+.top h3 {
+    font-size: 10px;
+}
+
+.top h2 {
+    font-size: 20px;
+}
+/* main work */
+/* main work */
+
+
+/* container section work */
+/* container section work */
+.container section {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    padding: 60px;
+    margin: 80px 0;
+}
+
+.container * {
+    margin: 10px 0;
+}
+/* container section work */
+/* container section work */
+
+
+/* nextContainer work */
+/* nextContainer work */
+.nextContainer, .offer {
+    float: left;
+    clear: both;
+    width: 100%;
+    padding: 100px;
+}
+
+.nextContainer section {
+    float: left;
+    width: 50%;
+    padding: 70px;
+}
+
+.nextContainer * {
+    padding: 5px;
+}
+/* nextContainer work */
+/* nextContainer work */
+
+
+/* staff work */
+/* staff work */
+.staff {
+    clear: both;
+    margin: 70px 80px;
+}
+.staff img {
+    width: 33.33%;
+    padding: 0 30px;
+}
+/* staff work */
+/* staff work */
+
+
+/* offer work */
+/* offer work */
+.offer * {
+    width: 50%;
+    margin: 0 30px;
+}
+/* offer work */
+/* offer work */
+
+
+/* models lookbook work */
+/* models lookbook work */
+.models {
+    margin: 50px 200px;
+    clear: both;
+    text-align: center;
+}
+
+.models h2{
+    padding-bottom: 40px;
+}
+
+.models img {
+    float: left;
+    padding: 10px;
+}
+.modelOne {
+    height: 100px;
+    width: 100px;
+}
+
+.modelTwo {
+    height: 500px;
+    width: 80px;
+}
+
+.modelThree {
+    height: 100px;
+    width: 80px;
+} 
+
+.modelFour {
+    height: 500px;
+    width: 100px;
+}
+
+.modelFive {
+    height: 100px;
+    width: 80px;
+}
+
+.modelSix {
+    height: 500px;
+    width: 80px;
+}
+/* models lookbook work */
+/* models lookbook work */
